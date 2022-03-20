@@ -14,7 +14,6 @@ import com.w2a.pages.crm.accounts.CreateAccountPage;
 public class LoginTest {
 
 	public static void main(String[] args) {
-		// Login Test
 	
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
